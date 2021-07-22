@@ -1,7 +1,7 @@
 NAME  
     cl-memo is a memo app.
 
-VERSION
+VERSION  
     0.0.1
  
 INSTALLATION  
