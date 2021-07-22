@@ -1,5 +1,5 @@
 NAME  
-    cl-memo is a memo app.
+    cl-memo - memo app.
 
 VERSION  
     0.0.1
